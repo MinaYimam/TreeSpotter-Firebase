@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659597893114",
+    "project_id": "trees-44c1e",
+    "storage_bucket": "trees-44c1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659597893114:android:908871a37e4b4760af9843",
+        "android_client_info": {
+          "package_name": "com.minayimam.android.treespotter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659597893114-iqjjopafgfrit94a4ggj2fcst2qdpkao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4FngLwWB3Gh9uBRE8_JM4n4CIJkS1VPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659597893114-iqjjopafgfrit94a4ggj2fcst2qdpkao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
