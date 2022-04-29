@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "659597893114",
-    "project_id": "trees-44c1e",
-    "storage_bucket": "trees-44c1e.appspot.com"
+    "project_number": "380576539365",
+    "project_id": "treespotter-app",
+    "storage_bucket": "treespotter-app.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:659597893114:android:908871a37e4b4760af9843",
+        "mobilesdk_app_id": "1:380576539365:android:70c5e1a4ff04ab4e316a0c",
         "android_client_info": {
           "package_name": "com.minayimam.android.treespotter_firebase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "659597893114-iqjjopafgfrit94a4ggj2fcst2qdpkao.apps.googleusercontent.com",
+          "client_id": "380576539365-h6r8164tu0lp255qm1n9u5i97eq3tp0j.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC4FngLwWB3Gh9uBRE8_JM4n4CIJkS1VPQ"
+          "current_key": "AIzaSyDrEzhlpBxxTixBjEfCWv7WyW_XX5-IAWw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "659597893114-iqjjopafgfrit94a4ggj2fcst2qdpkao.apps.googleusercontent.com",
+              "client_id": "380576539365-h6r8164tu0lp255qm1n9u5i97eq3tp0j.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
