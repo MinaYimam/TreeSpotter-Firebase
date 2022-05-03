@@ -2,9 +2,12 @@ package com.minayimam.android.treespotter_firebase
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.os.PersistableBundle
 import android.util.Log
 import com.google.android.material.bottomnavigation.BottomNavigationView
-
+import com.google.firebase.firestore.Query
+import com.google.firebase.firestore.ktx.firestore
+import com.google.firebase.ktx.Firebase
 
 private const val TAG = "MAIN_ACTIVITY"
 
@@ -18,7 +21,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         currentFragmentTag = savedInstanceState?.getString(CURRENT_FRAGMENT_BUNDLE_KEY) ?: "MAP"
-
 
         showFragment(currentFragmentTag)
 
@@ -41,6 +43,7 @@ class MainActivity : AppCompatActivity() {
         }
 
     }
+
 
     private fun showFragment(tag: String) {
 
